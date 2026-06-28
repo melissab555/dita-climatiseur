@@ -7,6 +7,9 @@
             <p>Avant d'utiliser le climatiseur, laissez-le en position verticale pendant au moins 2 heures.
                 Ne l'installez pas dans une salle de bain ou un autre environnement humide.</p>
         </prereq>
+        <context>
+            <p>Cette procédure s'applique au climatiseur mobile HY-CLM09KR-001.</p>
+        </context>
         <steps>
             <step>
                 <cmd>Sortez le connecteur extérieur et le tuyau d'expulsion de l'air de la boîte, puis retirez les sachets plastiques.</cmd>
@@ -38,9 +41,15 @@
                     <p>L'extrémité plate des raccords doit s'enclencher fermement.</p>
                 </info>
             </step>
+            <step>
+                <cmd>Branchez la fiche électrique dans une prise murale alimentée, en veillant à ce que le cordon ne gêne pas le passage.</cmd>
+                <info>
+                    <p>Assurez-vous que la fiche n'est pas endommagée avant de la brancher.</p>
+                </info>
+            </step>
         </steps>
         <result>
-            <p>Le climatiseur est correctement installé et prêt à être branché.</p>
+            <p>Le climatiseur est correctement installé, branché, et prêt à être allumé via le bouton Marche/Arrêt du panneau de contrôle.</p>
         </result>
     </taskbody>
 </task>

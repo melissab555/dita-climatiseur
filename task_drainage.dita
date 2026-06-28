@@ -26,9 +26,16 @@
             <step>
                 <cmd>Une fois l'eau entièrement écoulée, remettez le bouchon de l'orifice en place et serrez le cache.</cmd>
             </step>
+            <step>
+                <cmd>Rebranchez l'appareil et vérifiez que le voyant "FULL" ne clignote plus.</cmd>
+                <info>
+                    <p>Si le voyant clignote encore, répétez l'opération de drainage.</p>
+                </info>
+            </step>
         </steps>
         <result>
-            <p>Le tiroir de recueil est vidé et l'appareil reprend automatiquement son fonctionnement normal.</p>
+            <p>Le tiroir de recueil est vidé, l'appareil reprend automatiquement son fonctionnement normal,
+                et le voyant "FULL" est éteint.</p>
         </result>
     </taskbody>
 </task>
