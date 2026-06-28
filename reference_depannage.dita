@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_depannage">
+    <title>Dépannage et caractéristiques techniques</title>
+    <refbody>
+        <section>
+            <title>Tableau de dépannage</title>
+            <table>
+                <title>Problèmes courants et solutions</title>
+                <tgroup cols="3">
+                    <colspec colname="col1" colwidth="1*"/>
+                    <colspec colname="col2" colwidth="1*"/>
+                    <colspec colname="col3" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Problème</entry>
+                            <entry>Raison</entry>
+                            <entry>Solution</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Le climatiseur ne fonctionne pas</entry>
+                            <entry>L'alimentation électrique n'est pas effectuée</entry>
+                            <entry>Allumez l'appareil après l'avoir branché à une prise murale alimentée</entry>
+                        </row>
+                        <row>
+                            <entry>Le climatiseur ne fonctionne pas</entry>
+                            <entry>L'indicateur de sur-remplissage affiche "FL"</entry>
+                            <entry>Drainez l'eau contenue dans l'appareil</entry>
+                        </row>
+                        <row>
+                            <entry>Performances de rafraîchissement non optimales</entry>
+                            <entry>La grille du filtre est sale</entry>
+                            <entry>Nettoyez ou remplacez la grille du filtre</entry>
+                        </row>
+                        <row>
+                            <entry>Bruit important</entry>
+                            <entry>Le climatiseur n'est pas posé sur une surface plane</entry>
+                            <entry>Posez le climatiseur sur une surface plane et dure</entry>
+                        </row>
+                        <row>
+                            <entry>L'écran affiche "E1"</entry>
+                            <entry>La valeur captée par le capteur du tuyau est anormale</entry>
+                            <entry>Vérifiez le capteur du tuyau et les circuits électroniques associés</entry>
+                        </row>
+                        <row>
+                            <entry>L'écran affiche "E2"</entry>
+                            <entry>La valeur captée par le capteur de température ambiante est anormale</entry>
+                            <entry>Vérifiez le capteur de température ambiante et les circuits associés</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+        <properties>
+            <property>
+                <proptype>Réfrigérant</proptype>
+                <propvalue>R290 (hydrocarbure écologique)</propvalue>
+            </property>
+            <property>
+                <proptype>Charge maximale de réfrigérant</proptype>
+                <propvalue>220 g</propvalue>
+            </property>
+            <property>
+                <proptype>Débit d'air nominal minimal</proptype>
+                <propvalue>350 m³/h</propvalue>
+            </property>
+            <property>
+                <proptype>Plage de températures de fonctionnement</proptype>
+                <propvalue>7 à 35 °C</propvalue>
+            </property>
+            <property>
+                <proptype>Fusible</proptype>
+                <propvalue>Type 5ET ou SMT, 250V, 3,15A</propvalue>
+            </property>
+        </properties>
+    </refbody>
+</reference>

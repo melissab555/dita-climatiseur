@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_protection">
+    <title>Les fonctions de protection du climatiseur</title>
+    <conbody>
+        <p>Le climatiseur mobile est équipé de plusieurs fonctions de protection automatiques qui
+            préservent la durée de vie de l'appareil et garantissent un fonctionnement sûr.</p>
+        <section>
+            <title>Protection contre le gel</title>
+            <p>En mode rafraîchissement, déshumidification ou économie d'énergie, si la température du
+                tuyau d'expulsion devient trop basse, l'appareil entre automatiquement en mode protection.
+                Il reprend son fonctionnement normal dès que la température remonte.</p>
+        </section>
+        <section>
+            <title>Protection contre le débordement</title>
+            <p>Lorsque l'eau dans le tiroir de recueil atteint le niveau critique, l'appareil émet une
+                alarme et le voyant "FULL" clignote. Le fonctionnement reprend automatiquement après vidange.</p>
+        </section>
+        <section>
+            <title>Dégel automatique</title>
+            <p>Les modèles de rafraîchissement disposent d'une fonction de dégel automatique, rendue
+                possible par un renversement par soupapes quatre directions.</p>
+        </section>
+        <section>
+            <title>Protection du compresseur</title>
+            <p>Pour préserver la durée de vie du compresseur, ce dernier est équipé d'une fonction de
+                protection par délai de redémarrage de 3 minutes après son arrêt.</p>
+        </section>
+    </conbody>
+</concept>

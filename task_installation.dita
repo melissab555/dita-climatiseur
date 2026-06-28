@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_installation">
+    <title>Installer le climatiseur mobile</title>
+    <taskbody>
+        <prereq>
+            <p>Avant d'utiliser le climatiseur, laissez-le en position verticale pendant au moins 2 heures.
+                Ne l'installez pas dans une salle de bain ou un autre environnement humide.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Sortez le connecteur extérieur et le tuyau d'expulsion de l'air de la boîte, puis retirez les sachets plastiques.</cmd>
+            </step>
+            <step>
+                <cmd>Raccordez le tuyau de chauffage à l'ouverture présente sur le panneau arrière en poussant vers la gauche.</cmd>
+                <info>
+                    <p>Veillez à ce que le raccord soit fermement fixé.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Ouvrez la fenêtre à moitié et fixez la plaque de fixation de fenêtre.</cmd>
+                <info>
+                    <p>Les composants peuvent être installés à la verticale ou à l'horizontale.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Tirez sur les composants de la plaque de fixation pour les ouvrir et ajustez leur débattement de manière que les deux extrémités soient en contact avec le cadre de la fenêtre.</cmd>
+            </step>
+            <step>
+                <cmd>Positionnez l'appareil près de la fenêtre, en laissant un espace libre d'au moins 50 cm avec les objets environnants.</cmd>
+            </step>
+            <step>
+                <note type="warning">
+                    <p>Le tuyau ne doit pas être déformé ni plié à plus de 45°. Veillez à ce que le tuyau d'expulsion de l'air ne soit jamais obstrué.</p>
+                </note>
+                <cmd>Étirez le tuyau d'expulsion de l'air et enclenchez l'extrémité plate des raccords dans le trou de la plaque de fixation de fenêtre.</cmd>
+                <info>
+                    <p>L'extrémité plate des raccords doit s'enclencher fermement.</p>
+                </info>
+            </step>
+        </steps>
+        <result>
+            <p>Le climatiseur est correctement installé et prêt à être branché.</p>
+        </result>
+    </taskbody>
+</task>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_drainage">
+    <title>Effectuer le drainage manuel du climatiseur</title>
+    <taskbody>
+        <context>
+            <p>Lorsque le tiroir de recueil est plein, l'appareil s'arrête automatiquement et le voyant
+                "FULL" clignote. Procédez alors au drainage manuel.</p>
+        </context>
+        <steps>
+            <step>
+                <note>
+                    <p>Déplacez l'appareil avec précaution pour éviter que l'eau ne déborde du tiroir de recueil.</p>
+                </note>
+                <cmd>Éteignez l'appareil et débranchez la fiche d'alimentation.</cmd>
+            </step>
+            <step>
+                <cmd>Placez un conteneur sous l'orifice de drainage situé au dos de l'appareil.</cmd>
+            </step>
+            <step>
+                <cmd>Dévissez le cache de l'orifice de drainage et retirez le bouchon.</cmd>
+                <info>
+                    <p>L'eau s'écoule alors automatiquement hors du climatiseur.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Une fois l'eau entièrement écoulée, remettez le bouchon de l'orifice en place et serrez le cache.</cmd>
+            </step>
+        </steps>
+        <result>
+            <p>Le tiroir de recueil est vidé et l'appareil reprend automatiquement son fonctionnement normal.</p>
+        </result>
+    </taskbody>
+</task>
